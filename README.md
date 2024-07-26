@@ -9,12 +9,12 @@ The model translates English text to Hindi text with the help of LSTM. The proje
 
 **📱This notebook includes the following:**
 
-1. Import Required Libraries
-2. Checking Statistics of Each Group
-3. Exploratory Data Analysis
-4. Feature Selection
-5. Modeling Algorithms
-6. Model Trails
+1. Preprocessing
+2. Data cleaning
+3. Exploratory data analysis (EDA)
+4. Preparing the data to train a model
+5. Training and making predictions using various classification models
+6. Model evaluation
 
 ## Dataset 📔
 
