@@ -1,7 +1,9 @@
 # English-Hindi-Machine-Translation-using-LSTM
 
-# Description:
+## Description:
 The model translates English text to Hindi text with the help of LSTM. The project was implemented in Keras Framework on TensorFlow. An encoder was used to convert the English phrases to feature vectors that can be trained upon and a decoder converts the output vector back to normal Hindi text (utf-8).
+
+
 
 **📱This notebook includes the following:**
 
