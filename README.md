@@ -1,6 +1,6 @@
 # English-Hindi-Machine-Translation-using-LSTM
 
-![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.fiverr.com%2Fhiteshkumar0786%2Ftranslate-english-to-hindi-and-other-launguages&psig=AOvVaw3mpRZpNRWrvp2d2oZpBs8y&ust=1722101119380000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKCkz-ScxYcDFQAAAAAdAAAAABAV)
+![image](https://github.com/user-attachments/assets/1718454d-f8ae-42c8-806d-698dea336974)
 
 ## Description:
 The model translates English text to Hindi text with the help of LSTM. The project was implemented in Keras Framework on TensorFlow. An encoder was used to convert the English phrases to feature vectors that can be trained upon and a decoder converts the output vector back to normal Hindi text (utf-8).
