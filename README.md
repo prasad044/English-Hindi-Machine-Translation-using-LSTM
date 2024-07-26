@@ -18,3 +18,5 @@ The model translates English text to Hindi text with the help of LSTM. The proje
 
 [Dataset link: English-Hindi-Machine-Translation-using-LSTM](https://www.cfilt.iitb.ac.in/iitb_parallel/)
 
+![image](https://github.com/prasad044/English-Hindi-Machine-Translation-using-LSTM/blob/main/images/image.jpg?raw=true)
+
